@@ -26,6 +26,7 @@ This PHP script allows users to download a zip archive containing resources (suc
 - 🔒 If `download_file` is set to `true`, the file will be saved in a local directory (`downloads/`) and a link to the downloaded file will be provided in the response.
 
 Example JSON response:
+
 ```json
 {
   "status": "success",
@@ -33,6 +34,7 @@ Example JSON response:
 }```
 
 If the script encounters an error, the response will include a relevant error message:
+
 ```json
 {
   "status": "error",
