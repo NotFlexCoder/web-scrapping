@@ -67,6 +67,7 @@ If the script encounters an error, the response will include a relevant error me
 $download_file: Set this variable to true if you want the zip file to be saved to the server. By default, it’s set to false, which means the file will be downloaded immediately.
 
 ```json
+
 $download_file = true;
 
 ```
