@@ -68,6 +68,7 @@ $download_file: Set this variable to true if you want the zip file to be saved t
 
 ```json
 $download_file = true;
+
 ```
 
 ## 📝 License
