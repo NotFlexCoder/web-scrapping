@@ -39,7 +39,7 @@ If the script encounters an error, the response will include a relevant error me
 {
   "status": "error",
   "message": "Invalid URL"
-}```
+}``` 
 
 ## 📝 Parameters
 
@@ -66,7 +66,7 @@ $download_file: Set this variable to true if you want the zip file to be saved t
 
 ```json
 $download_file = true;
-```
+``` 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/NotFlexCoder/web-scrapping/blob/main/LICENSE) file for details.
