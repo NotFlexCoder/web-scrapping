@@ -1,4 +1,4 @@
-# 🌐 Web Resource Downloader
+# 🌐 Web Scrapping Api
 
 This PHP script allows users to download a zip archive containing resources (such as images, CSS, JavaScript, etc.) from a provided URL. The script fetches the HTML of the given URL, extracts all resources (images, CSS, JS files), and bundles them into a downloadable zip file.
 
@@ -31,7 +31,8 @@ Example JSON response:
 {
   "status": "success",
   "url": "https://yourdomain.com/downloads/example_com.zip"
-}```
+}
+```
 
 If the script encounters an error, the response will include a relevant error message:
 
@@ -39,7 +40,8 @@ If the script encounters an error, the response will include a relevant error me
 {
   "status": "error",
   "message": "Invalid URL"
-}``` 
+}
+``` 
 
 ## 📝 Parameters
 
