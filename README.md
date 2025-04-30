@@ -68,6 +68,12 @@ $download_file: Set this variable to true if you want the zip file to be saved t
 
 `$download_file = true;`
 
+## Tutorial 
+
+Watching Following Video You Can Host This Api & Gain Some Knowledge 👇
+
+[![Watch the video](https://img.youtube.com/vi/csSHxZSaFB4/hqdefault.jpg)](https://youtu.be/csSHxZSaFB4)
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/NotFlexCoder/web-scrapping/blob/main/LICENSE) file for details.
